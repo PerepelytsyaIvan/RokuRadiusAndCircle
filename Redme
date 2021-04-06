@@ -1,3 +1,6 @@
+xml:
+ <CustomViewPoster id = "customPoster" translation = "[]"/>
+
 
 the component has 2 new properties:
 cornerRadius - called through "." and assigned to him a string radius that should have a picture.
