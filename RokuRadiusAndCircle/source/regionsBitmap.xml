@@ -1,0 +1,168 @@
+
+<DefenderBitmapSet>
+	<Bitmap name="circle210" filespec="pkg:/images/ImageRadius/circle210.png"/>
+
+	<Bitmap name="radius7" filespec="pkg:/images/ImageRadius/radius7.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius10" filespec="pkg:/images/ImageRadius/radius10.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius11" filespec="pkg:/images/ImageRadius/radius11.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius13" filespec="pkg:/images/ImageRadius/radius13.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+
+	<Bitmap name="radius14" filespec="pkg:/images/ImageRadius/radius14.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius15" filespec="pkg:/images/ImageRadius/radius15.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius42" filespec="pkg:/images/ImageRadius/radius42.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+
+	<Bitmap name="radius16" filespec="pkg:/images/ImageRadius/radius16.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius17" filespec="pkg:/images/ImageRadius/radius17.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius18" filespec="pkg:/images/ImageRadius/radius18.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius19" filespec="pkg:/images/ImageRadius/radius19.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+    <Bitmap name="radius20" filespec="pkg:/images/ImageRadius/radius20.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius21" filespec="pkg:/images/ImageRadius/radius21.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius22" filespec="pkg:/images/ImageRadius/radius22.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius23" filespec="pkg:/images/ImageRadius/radius23.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius24" filespec="pkg:/images/ImageRadius/radius24.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+
+	<Bitmap name="radius25" filespec="pkg:/images/ImageRadius/radius25.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius26" filespec="pkg:/images/ImageRadius/radius26.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius27" filespec="pkg:/images/ImageRadius/radius27.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius28" filespec="pkg:/images/ImageRadius/radius28.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius29" filespec="pkg:/images/ImageRadius/radius29.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius30" filespec="pkg:/images/ImageRadius/radius30.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+
+	<Bitmap name="radius31" filespec="pkg:/images/ImageRadius/radius31.png">
+		<Region name="leftUP" x="00" y="00" w="25" h="25"/>
+		<Region name="rightUP" x="25" y="00" w="25" h="25"/>
+		<Region name="downLeft" x="0" y="25" w="25" h="25"/>
+		<Region name="downRight" x="25" y="25" w="25" h="25"/>
+	</Bitmap>
+</DefenderBitmapSet>

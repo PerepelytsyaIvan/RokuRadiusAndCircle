@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<!--********** Copyright 2016 Roku Corp.  All Rights Reserved. **********-->
+
+<component name = "CustomViewPoster" extends = "Group">
+
+    <script type="text/brightscript" uri="pkg:/components/CustomViewPoster.brs"/>
+    <script type="text/brightscript" uri="pkg:/components/ManagerGenerateRadius.brs"/>
+     <interface>	
+		<function name="configurateCustomRadius"/>
+        <function name="configurateCustomPosterCircle"/>
+  	</interface>
+        <children >
+                <MaskGroup id = "maskGroup" translation = "[0, 0]">
+                    <Poster id = "customPoster"  translation = "[0, 0]"/>
+                </MaskGroup>
+        </children>
+
+</component>
