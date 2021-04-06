@@ -1,5 +1,4 @@
 
-    m.poster = m.top.findNode("posterRoku") 
-    m.poster.width = 500
-    m.poster.height = 500
-    m.poster.callFunc("configurateCustomRadius", 500, 500, "7", "urlRadius", "pkg:/images/icon.jpg")
+the component has 2 new properties:
+cornerRadius - called through "." and assigned to him a string radius that should have a picture.
+circle -resize the poster to square, and leave it " " in the circle property.
